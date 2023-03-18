@@ -35,7 +35,7 @@ local SelectedDisableKey = getgenv().DisableKey
 	
 function Notify(tx)	
     SG:SetCore("SendNotification", {	
-        Title = "Evan's Camlock",	
+        Title = "aired#0904",	
         Text = tx,	
 Duration = 5	
     })	
