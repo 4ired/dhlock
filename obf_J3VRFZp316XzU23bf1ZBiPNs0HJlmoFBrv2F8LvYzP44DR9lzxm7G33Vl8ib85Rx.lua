@@ -1,3 +1,5 @@
+--// MADE BY 4IRED DONT STEAL!!! aired#0904
+
 getgenv().Prediction = 6.7	
 getgenv().AimPart = "HumanoidRootPart"	
 getgenv().Key = "Q"	
